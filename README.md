@@ -30,8 +30,6 @@
 
 * 📫 **How to reach me:** `[sumeyyekirtil4@gmail.com]`
 
-* 😄 **Pronouns:** She/Her
-
 * ⚡ **Fun fact:** Whether I'm architecting a clean backend in Visual Studio or training an AI model in VS Code, I love turning complex problems into elegant, user-friendly solutions! ✨
 
 <br/>
