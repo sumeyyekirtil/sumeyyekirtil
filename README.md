@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Üst Dalga ve Başlık -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=28" width="100%" />
 </div>
 
 <br/>
@@ -86,11 +86,9 @@ Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" alt="Cute Coding Animation" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
 </div>
-
-<br/>
-<img align="right" alt="Cute Coding Animation" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
 
 <br/>
 
