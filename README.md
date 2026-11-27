@@ -91,11 +91,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumeyyekirtil/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumeyyekirtil/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sumeyyekirtil/output/github-snake.svg" />
-  </picture>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4eG5vZ2F5d2d4eG5vZ2F5d2d4eG5vZ2F5d2d4eG5vZ2F5/3o7abAHf6u3bN0n98Q/giphy.gif" alt="Snake Animation" width="420" />
 </div>
 
 <!-- Alt Dalga -->
