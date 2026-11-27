@@ -90,10 +90,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4eG5vZ2F5d2d4eG5vZ2F5d2d4eG5vZ2F5d2d4eG5vZ2F5/3o7abAHf6u3bN0n98Q/giphy.gif" alt="Snake Animation" width="420" />
-</div>
-
 <!-- Alt Dalga -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=100&section=footer" width="100%" alt="Footer Wave" />
