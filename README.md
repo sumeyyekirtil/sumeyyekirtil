@@ -81,17 +81,10 @@
 
 ### 📊 GitHub Stats & Coding Activity
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-<!-- Tatlı Alt Animasyon: Katkı Grafiği Yılanı veya Dalga Efekti -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
-<br/>
 
 <!-- Alt Dalga -->
 <div align="center">
