@@ -1,60 +1,84 @@
 <div align="center">
-  <!-- Tatlı ve Dikkat Çekici Üst Dalga / Yazı Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,23&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20S%C3%BCmeyye!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
-  
-  <!-- Dinamik Yazı Efekti (Typing SVG) -->
-  <a href="https://github.com/sumeyyekirtil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+RAG+%26+LLM+Powered+Apps+%E2%9C%A8;Python+%26+Data+Science+Explorer+%F0%9F%93%8A;Cloud+Computing+Learner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <!-- Üst Dalga ve Başlık Animasyonu -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=Sümeyye%20Kırtıl&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+
+  <!-- Hareketli Daktilo Efekti (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer+(C%23+%26+.NET+Core);Building+Scalable+Apps+with+SOLID+%26+Clean+Code;Generative+AI+%26+RAG+Systems+Builder;Data+Science+%26+Cloud+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
----
+<br/>
 
 ## Hi there 👋
 
-<!--
-**sumeyyekirtil/sumeyyekirtil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<img align="right" alt="Coding Animation" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 **Education:** `[Okul / Üniversite Adı]` — `[Bölüm Adı, örn: Bilgisayar Mühendisliği / Yazılım Mühendisliği]`
-- 🔭 **I’m currently working on:** Generative AI applications, RAG (Retrieval-Augmented Generation) architectures, and emotion-based recommendation chatbots (*like CineSensei*).
-- 🌱 **I’m currently learning:** Advanced LLM orchestration (LangChain, Gemini API), Cloud Security & IAM architectures (Huawei Cloud), and scalable AI pipelines.
-- 👯 **I’m looking to collaborate on:** Open-source AI/ML projects, Data Science analyses, and innovative hackathon prototypes.
-- 🤔 **I’m looking for help with:** Deep learning model optimization and MLOps best practices.
-- 💬 **Ask me about:** Python, RAG systems, Data Analysis (Pandas, NumPy, Matplotlib), and AI bootcamps!
-- 📫 **How to reach me:** `[E-posta Adresin veya İletişim Tercihin]`
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I love turning complex datasets into meaningful stories and teaching machines how to understand human emotions! 🎬✨
+* 🎓 **Education:** `[Ankara University - Computer Programming]` + `[Istanbul University - Banking and Insurance]`
 
----
+* 💻 **What I Do:** I am a **Full-Stack Developer** crafting scalable, maintainable web applications with **C#, .NET Core, Entity Framework, JavaScript, and Bootstrap 5**, strictly adhering to **SOLID principles** and **Clean Code** architecture.
+
+* 🔭 **I’m currently working on:** Full-stack web solutions with .NET Core, alongside Generative AI & RAG (Retrieval-Augmented Generation) chatbots (*Sensei^^*).
+
+* 🌱 **I’m currently learning:** Microservices architecture in .NET, advanced LLM orchestration (LangChain, Gemini API), and Cloud Security (Huawei Cloud).
+
+* 👯 **I’m looking to collaborate on:** Full-stack web projects, open-source .NET / AI repositories, and innovative hackathon prototypes.
+
+* 🤔 **I’m looking for help with:** Enterprise design patterns, distributed systems, and MLOps pipelines.
+
+* 💬 **Ask me about:** C#, .NET Core, Entity Framework, SOLID Principles, Clean Code, JavaScript, Python, and RAG Systems!
+
+* 📫 **How to reach me:** `[sumeyyekirtil4@gmail.com]`
+
+* 😄 **Pronouns:** She/Her
+
+* ⚡ **Fun fact:** Whether I'm architecting a clean backend in Visual Studio or training an AI model in VS Code, I love turning complex problems into elegant, user-friendly solutions! ✨
+
+<br/>
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
-</div>
+#### **Backend & Web Development (Full-Stack)**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+#### **AI, Data Science & Cloud**
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Claude](https://shields.io)
+![Claude Code](https://shields.io)
+![Anthropic](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+
+#### **Architecture, Principles & IDEs**
+![SOLID](https://img.shields.io/badge/SOLID-Principles-007ACC?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Architecture-2EA44F?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
 
 ### 🌐 Connect with Me
 
 Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip edebilirsiniz:
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://www.upwork.com/freelancers/~SENIN_UPWORK_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/SENIN_INSTAGRAM_KULLANICI_ADIN/" target="_blank">
+  <a href="https://www.instagram.com/SENIN_INSTAGRAM_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@SENIN_YOUTUBE_KANALIN" target="_blank">
@@ -62,19 +86,18 @@ Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip
   </a>
 </div>
 
----
+<br/>
 
 ### 📊 GitHub Stats & Coding Activity
 
 <div align="center">
-  <!-- Tatlı Bir Kodlama GIF'i / İllüstrasyonu -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  
-  <br/><br/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sümeyye's GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
-<!-- Alt Dalga Animasyonu -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,23&height=100&section=footer" width="100%" />
+<br/>
+
+<!-- Tatlı Alt Animasyon: Katkı Grafiği Yılanı veya Dalga Efekti -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=100&section=footer" width="100%" />
+</div>
