@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Üst Dalga ve Başlık Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <!-- Üst Dalga ve Başlık -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Wave" />
 
   <!-- Hareketli Daktilo Efekti (Typing SVG) -->
   <a href="https://git.io/typing-svg">
@@ -12,7 +12,7 @@
 
 ## Hi there 👋
 
-<img align="right" alt="Coding Hamster SVG Animation" width="290" src="./coding-hamster.svg" />
+<img align="right" alt="Cute Coding Animation" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
 
 - 🎓 **Education:** `[Ankara University - Computer Programming]` + `[Istanbul University - Banking and Insurance]`
 
@@ -95,7 +95,7 @@ Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip
 
 <br/>
 
-<!-- Tatlı Alt Animasyon: Katkı Grafiği Yılanı veya Dalga Efekti -->
+<!-- Alt Dalga -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
