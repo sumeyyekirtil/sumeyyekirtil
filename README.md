@@ -86,7 +86,6 @@ Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeyyekirtil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyekirtil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img height="180em" alt="Cute Coding Animation" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
 </div>
 
 <br/>
