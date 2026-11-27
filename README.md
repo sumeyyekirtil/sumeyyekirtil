@@ -1,13 +1,15 @@
 <div align="center">
   <!-- Üst Dalga ve Başlık -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Wave" />
+</div>
 
 <br/>
+ <!-- Hareketli Daktilo Efekti (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer+(C%23+%26+.NET+Core);Building+Scalable+Apps+with+SOLID+%26+Clean+Code;Generative+AI+%26+RAG+Systems+Builder;Data+Science+%26+Cloud+Explorer" alt="Typing SVG" />
+  </a>
 
 ## Hi there 👋
-
-<img align="right" alt="Cute Coding Animation" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
-
 - 🎓 **Education:** `[Ankara University - Computer Programming]` + `[Istanbul University - Banking and Insurance]`
 
 - 💻 **What I Do:** I am a **Full-Stack Developer** crafting scalable, maintainable web applications with **C#, .NET Core, Entity Framework, JavaScript, and Bootstrap 5**, strictly adhering to **SOLID principles** and **Clean Code** architecture.
@@ -88,12 +90,7 @@ Bana aşağıdaki platformlardan ulaşabilir, projelerimi ve içeriklerimi takip
 </div>
 
 <br/>
-
-  <!-- Hareketli Daktilo Efekti (Typing SVG) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer+(C%23+%26+.NET+Core);Building+Scalable+Apps+with+SOLID+%26+Clean+Code;Generative+AI+%26+RAG+Systems+Builder;Data+Science+%26+Cloud+Explorer" alt="Typing SVG" />
-  </a>
-</div>
+<img align="right" alt="Cute Coding Animation" width="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5yN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4aG5wN3Z4/3o7abB06u9bNzA8lu8/giphy.gif" />
 
 <br/>
 
