@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Tatlı ve Dikkat Çekici Üst Dalga / Yazı Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,48&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20S%C3%BCmeyye!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,25,23&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20S%C3%BCmeyye!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
   
   <!-- Dinamik Yazı Efekti (Typing SVG) -->
   <a href="https://github.com/sumeyyekirtil">
