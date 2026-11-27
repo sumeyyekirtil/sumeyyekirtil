@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Üst Dalga ve Başlık Animasyonu -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=Sümeyye%20Kırtıl&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,24,23&height=180&section=header&text=S%C3%BCmeyye%20K%C4%B1rt%C4%B1l&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20RAG%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
   <!-- Hareketli Daktilo Efekti (Typing SVG) -->
   <a href="https://git.io/typing-svg">
@@ -12,25 +12,25 @@
 
 ## Hi there 👋
 
-<img align="right" alt="Coding Animation" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding Hamster SVG Animation" width="290" src="./coding-hamster.svg" />
 
-* 🎓 **Education:** `[Ankara University - Computer Programming]` + `[Istanbul University - Banking and Insurance]`
+- 🎓 **Education:** `[Ankara University - Computer Programming]` + `[Istanbul University - Banking and Insurance]`
 
-* 💻 **What I Do:** I am a **Full-Stack Developer** crafting scalable, maintainable web applications with **C#, .NET Core, Entity Framework, JavaScript, and Bootstrap 5**, strictly adhering to **SOLID principles** and **Clean Code** architecture.
+- 💻 **What I Do:** I am a **Full-Stack Developer** crafting scalable, maintainable web applications with **C#, .NET Core, Entity Framework, JavaScript, and Bootstrap 5**, strictly adhering to **SOLID principles** and **Clean Code** architecture.
 
-* 🔭 **I’m currently working on:** Full-stack web solutions with .NET Core, alongside Generative AI & RAG (Retrieval-Augmented Generation) chatbots (*Sensei^^*).
+- 🔭 **I’m currently working on:** Full-stack web solutions with .NET Core, alongside Generative AI & RAG (Retrieval-Augmented Generation) chatbots (*Sensei^^*).
 
-* 🌱 **I’m currently learning:** Microservices architecture in .NET, advanced LLM orchestration (LangChain, Gemini API), and Cloud Security (Huawei Cloud).
+- 🌱 **I’m currently learning:** Microservices architecture in .NET, advanced LLM orchestration (LangChain, Gemini API, Claude), and Cloud Security (Huawei Cloud).
 
-* 👯 **I’m looking to collaborate on:** Full-stack web projects, open-source .NET / AI repositories, and innovative hackathon prototypes.
+- 👯 **I’m looking to collaborate on:** Full-stack web projects, open-source .NET / AI repositories, and innovative hackathon prototypes.
 
-* 🤔 **I’m looking for help with:** Enterprise design patterns, distributed systems, and MLOps pipelines.
+- 🤔 **I’m looking for help with:** Enterprise design patterns, distributed systems, and MLOps pipelines.
 
-* 💬 **Ask me about:** C#, .NET Core, Entity Framework, SOLID Principles, Clean Code, JavaScript, Python, and RAG Systems!
+- 💬 **Ask me about:** C#, .NET Core, Entity Framework, SOLID Principles, Clean Code, JavaScript, Python, Claude, and RAG Systems!
 
-* 📫 **How to reach me:** `[sumeyyekirtil4@gmail.com]`
+- 📫 **How to reach me:** `[sumeyyekirtil4@gmail.com]`
 
-* ⚡ **Fun fact:** Whether I'm architecting a clean backend in Visual Studio or training an AI model in VS Code, I love turning complex problems into elegant, user-friendly solutions! ✨
+- ⚡ **Fun fact:** Whether I'm architecting a clean backend in Visual Studio / Cursor or training an AI model in VS Code, I love turning complex problems into elegant, user-friendly solutions! ✨
 
 <br/>
 
@@ -46,10 +46,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### **AI, Data Science & Cloud**
-![Google Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![Claude](https://shields.io)
-![Claude Code](https://shields.io)
-![Anthropic](https://shields.io)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -59,6 +58,7 @@
 #### **Architecture, Principles & IDEs**
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-007ACC?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-Architecture-2EA44F?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
